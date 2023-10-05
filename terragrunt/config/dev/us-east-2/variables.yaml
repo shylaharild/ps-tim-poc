@@ -1,0 +1,7 @@
+region: us-east-2
+env: dev
+prefix: ps-tim
+app_name: s3-buckets
+tf_state_table: ps-tim-terraform-state-dev-us-east-2
+tf_state_bucket: ps-tim-terraform-state-dev-us-east-2
+tf_state_bucket_key: state/dev/us-east-2/tf-ps-tim-s3-buckets-infra.tfstate

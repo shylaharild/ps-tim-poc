@@ -1,0 +1,6 @@
+region: us-west-2
+environment: dev
+prefix: ps-tim-us-west-2
+app_name: s3-buckets
+tf_state_table: ps-tim-terraform-state-dev-us-west-2
+tf_state_bucket: ps-tim-terraform-state-dev-us-west-2
