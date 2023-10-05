@@ -29,7 +29,7 @@ $ make install && make build
 the output will be as follows
 
 ```
-sri@sri:~/base/ps-tim-poc/cdk/typescript$ make install
+sri@sri:~/ps-tim-poc/cdk/typescript$ make install
 yarn install
 yarn install v1.22.19
 [1/4] Resolving packages...
@@ -39,7 +39,7 @@ yarn install v1.22.19
 success Saved lockfile.
 Done in 10.70s
 
-sri@sri:~/base/ps-tim-poc/cdk/typescript$ make build
+sri@sri:~/ps-tim-poc/cdk/typescript$ make build
 yarn install
 yarn install v1.22.19
 [1/4] Resolving packages...
