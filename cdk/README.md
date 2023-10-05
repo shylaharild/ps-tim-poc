@@ -11,5 +11,5 @@ This project create the infrastructure using CDK in an AWS Account
 
 ## How to run
 
-1. [Typescript]()
+1. [Typescript](https://github.com/shylaharild/ps-tim-poc/blob/main/cdk/typescript/README.md)
 2. [Python]()
