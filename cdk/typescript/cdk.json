@@ -1,0 +1,8 @@
+{
+  "app": "yarn ts-node -C ttypescript src/index.ts",
+
+  "context": {
+    "aws-cdk:enableDiffNoFail": "true",
+    "@aws-cdk/core:stackRelativeExports": "true"
+  }
+}

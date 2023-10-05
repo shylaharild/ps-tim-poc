@@ -1,0 +1,12 @@
+*.js
+!.eslintrc.js
+!jest.config.js
+*.d.ts
+node_modules
+**/coverage
+
+# CDK asset staging directory
+cdk.context.json
+.cdk.staging
+cdk.out
+**/iac
